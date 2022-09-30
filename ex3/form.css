@@ -1,0 +1,16 @@
+form {
+ background: #eee;
+ padding: 30px;
+}
+span {
+ float: left;
+ width: 100px;
+}
+input, select {
+ margin-bottom: 10px;
+ width: 200px;
+}
+.submit {
+ margin-left: 100px;
+ width: 200px;
+}
